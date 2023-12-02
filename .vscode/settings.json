@@ -1,0 +1,8 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "metals.javaHome": "/usr/lib/jvm/java-8-openjdk-amd64"
+}
